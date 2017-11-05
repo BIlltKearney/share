@@ -1,2 +1,2 @@
 # share
-Shared files
+Shared files are in this repo.
